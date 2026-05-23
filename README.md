@@ -51,6 +51,6 @@ java -cp ".;bin;lib\mysql-connector-j-9.7.0.jar" yogasri.pos.App
 ```
 
 ### Default users
-- **Admin**: `*****` / `*****`
-- **Staff**: `*****` / `*****`
+- **Admin**: `user` / `User`
+- **Staff**: `Admin` / `Admin123`
 
