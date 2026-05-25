@@ -37,8 +37,7 @@ SOURCE sql/yogasri_pos_sample_data.sql;
 - `db.password=your_password`
 
 ### Build & run (no Maven/Gradle)
-From the project folder:
-
+FROM THE PROJECT FOLDER:
 ```powershell
 .\run.ps1
 ```
